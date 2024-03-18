@@ -1,0 +1,33 @@
+.titulo-home{
+    text-align: center;
+    color: var(--cor-primaria);
+    font-size: 150px;
+    margin-bottom: 15px;
+    margin-top: 175px;
+    font-weight: 700;
+}
+.redirecionamento a {
+    text-decoration: none;
+    color: var(--cor-primaria);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.redirecionamento {
+    text-align: center;
+    font-style: italic;
+    margin-top: 3px;
+}
+.texto-suporte a {
+    text-decoration: none;
+    color: #0553c9;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.texto-suporte {
+    text-align: center;
+    text-orientation: sideways-right;
+    font-style: italic;
+    margin-top: 3px;
+}
